@@ -1,0 +1,14 @@
+SITE DR CLOVIS CONDICELLI
+
+COMO PUBLICAR (NOVO REPOSITORIO NO GITHUB)
+1) Extraia o ZIP (botao direito > Extrair tudo) e abra a pasta: index.html deve aparecer ao lado das pastas assets, blog, ansiedade-sao-carlos, angustia-sao-carlos, luto-sao-carlos e politica-de-privacidade.
+2) No GitHub: + > New repository > nome site-dr-clovis > Create. Na pagina vazia, clique em "uploading an existing file".
+3) Selecione TUDO dentro da pasta (Ctrl+A) e ARRASTE para a area tracejada (as pastas vao junto). Nao envie o .zip. Confirme em "Commit changes".
+4) Na Vercel: Add New > Project > Import do repositorio, Framework Preset "Other", sem build command. Deploy.
+5) Dominio: Settings > Domains > drcloviscondicelli.com.br e www. O vercel.json redireciona o www e bloqueia a indexacao do endereco .vercel.app.
+6) Depois: enviar https://drcloviscondicelli.com.br/sitemap.xml no Google Search Console e criar o Perfil de Empresa no Google.
+
+PENDENCIAS
+- Confirmar o nome "Instituto Milton Erickson" (foi digitado "Minton").
+- Revisar e reescrever os textos com a sua voz clinica.
+- Revisao juridica da Politica de Privacidade antes de publicar.
